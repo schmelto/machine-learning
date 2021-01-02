@@ -6,5 +6,6 @@ found on [openHPI - neuralnets2020](https://open.hpi.de/courses/neuralnets2020/o
 
 ## Structure
 
-01. [MNIST](./MNIST.ipynb)
-02. []()
+* [Activation Functions](activation_functions.ipynb)
+* [MNIST](./MNIST.ipynb)
+* []()
