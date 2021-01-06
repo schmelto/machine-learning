@@ -10,7 +10,7 @@ found on [openHPI - neuralnets2020](https://open.hpi.de/courses/neuralnets2020/o
 * [Introduction to Maploitlib](introduction_to_Maploitlib.ipynb)
 * [Loading and editing MNIST](Loading_and_editing_MNIST.ipynb)
 * [Introduction of Tensorflow / Keras](Introduction_Tensorflow_Keras.ipynb)
-
+* [Complex layer structure](Complex_layer_structure.ipynb)
 
 * [Activation Functions](activation_functions.ipynb)
 * [MNIST](MNIST.ipynb)
