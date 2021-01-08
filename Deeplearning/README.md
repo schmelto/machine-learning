@@ -15,3 +15,4 @@ found on [openHPI - neuralnets2020](https://open.hpi.de/courses/neuralnets2020/o
 * [Complex layer structure](Complex_layer_structure.ipynb)
 * [Loss Functions](Loss_Functions.ipynb)
 * [Optimizer](Optimizer.ipynb)
+* [Hyperparameters](Hyperparameters.ipynb)
