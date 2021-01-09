@@ -16,3 +16,4 @@ found on [openHPI - neuralnets2020](https://open.hpi.de/courses/neuralnets2020/o
 * [Loss Functions](Loss_Functions.ipynb)
 * [Optimizer](Optimizer.ipynb)
 * [Hyperparameters](Hyperparameters.ipynb)
+* [How do you optimize hyperparameters?](How_do_you_optimize_hyperparameters.ipynb)
