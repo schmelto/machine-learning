@@ -18,3 +18,4 @@ found on [openHPI - neuralnets2020](https://open.hpi.de/courses/neuralnets2020/o
 * [Hyperparameters](Hyperparameters.ipynb)
 * [How do you optimize hyperparameters?](How_do_you_optimize_hyperparameters.ipynb)
 * [Dropout](Dropout.ipynb)
+* [Data Argumentation](Data_Augmentation.ipynb)
