@@ -1,4 +1,4 @@
-# :desktop_computer: Machine Learning with Python
+# :desktop_computer: Machine Learning
 
 This repository is for all machine learning related stuff that I do.
 
